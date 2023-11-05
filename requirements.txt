@@ -3,3 +3,6 @@ pandas
 transformers
 torch
 tqdm
+scikit-learn
+sentencepiece
+protobuf
