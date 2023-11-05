@@ -28,6 +28,8 @@ project!**
 
 It won't work on Windows :((
 
+If you're on Windows, download the [dataset](https://github.com/skoltech-nlp/detox/releases/download/emnlp2021/filtered_paranmt.zip) manually, unzip it, and put it into `data/raw/`
+
 ### Dependencies
 
 Use requirements.txt:
