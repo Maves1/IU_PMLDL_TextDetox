@@ -1,6 +1,6 @@
 from transformers import BertTokenizer
 
-class RemoverModel:
+class WordRemoverModel:
     def __init__(self, toxic_words: set) -> None:
         self.toxic_words = toxic_words
         self.tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
