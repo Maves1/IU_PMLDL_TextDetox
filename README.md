@@ -1,5 +1,11 @@
 # Text Detoxification
 
+## References
+- [Александр Панченко — Monolingual and Cross-lingual Text Detoxification](https://www.youtube.com/watch?v=PEo3UJKwsN0&t=1219s&ab_channel=%D0%9C%D0%A2%D0%A1Digital)
+- [Monolingual and Cross-lingual Text Detoxification [in Russian]](https://www.youtube.com/watch?v=1RsHbmzY2Mg&ab_channel=BayesGroup.ru)
+- [Text Detoxification using Large Pre-trained Neural Models](https://arxiv.org/abs/2109.08914)
+- [GitHub repository related to the paper right above](https://github.com/s-nlp/detox)
+
 ## Info
 
 Uni Project
