@@ -74,4 +74,3 @@ Example output:
 ### Src
 
 `src/` folder contains `python` scripts that can be executed to conduct training and prediction.
-To visualize the outputs, run `src/visualization/visualize.py` 
